@@ -1,0 +1,6 @@
+{
+  "name": "Asistente Financiero Ejecutivo",
+  "description": "Analista de datos y asistente financiero avanzado para registrar, categorizar y analizar gastos personales y operativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
